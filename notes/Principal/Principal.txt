@@ -1,0 +1,66 @@
+sprites e objetos	(feito)						
+
+Inportar todos os sprites para o projeto (feito)
+Criar um objeto para cada sprite (feito)
+colocar o plano de fundo na room (feito)
+redimencionar a room para o tamanho do sprite de fundo. (feito)
+
+Movivento raquete P1 e P2 (feito)
+
+fazer o movimento vertical das raquetes (feito)
+fazer com que as raquetes tenham colisao (feito)
+impedir que as raqutes saim por  cima ou por baixo. (feito)
+
+movimento da bola
+
+fazer a bola ter uma velocidade (feito)
+fazer ela ter colisao com as raquetes e a parede (feito)
+fazer ela quicar nas raquetes e paredes (feito)
+fazer o som de boing tocar sempre que a  bola  quicar (feito)
+fazer a velocidade dela aumentar ao quicar nas raquetes. (feito)
+fazer ela escolher uma  direcao aleatoria para se movimentar (feito)
+fazer ela ter uma espera de dois segundos antes de se movimentar (feito)
+
+sistema de gols
+
+criar uma variavel global para ser a pontuacao do P1 e P2  (feito)
+fazer com que a bola ao passar pelo gol do P1 a pontuacao do P2 aumente (feito)
+fazer com que a bola ao passar pelo gol do P2 a pontuacao do P1 aumente (feito)
+fazer com que a bola ao passar por qualquer um dos gols, a posicao dos objetos resete. (feito)
+fazer com que a pontucao do P1 e P2 apareca na tela. (feito)
+fazer com que ao alacancar uma pontuacao de 2 pontos, a pontuacao de ambas as raquetes resete. (feito)
+
+sistema de ia
+
+criar uma variavel global da velocidade da bola (feito)
+fazer essa variavel global receber a posicao vertical da bola o tempo todo (feito)
+atribuir o movimento vertical da bola para a raquete_2 (feito)
+definir um limite de velocidade para a raquete_2 (feito)
+
+verificando se o jogo esta como um ou dois jogadores.
+
+crie uma variavel global 2 jogadores (feito)
+faca com que voce só possa mover a raquete 2 se estiver em dois jogadores. (feito)
+faca com que a ia só funcione se estiver em um jogador (feito)
+
+criando um sistema de dificuldade
+
+crie uma variavel global de dificuldade (feito)
+crie as dificuldades facil, medio, dificil, extremo (feito)
+
+criando o menu
+
+faca com que o jogo comece no menu (feito)
+crie um botao para iniciar (feito)
+crie um botao de selecao de jogadores
+faca com que o botao de selecao de jogadores (feito)
+mostre a quantidade de jogadores atual (feito)
+crie um botao de dificuldade (feito)
+faca com que o botao mostre a dificuldade atual (feito)
+faca com que os botoes só acendam quando o mouse passar em cima dele (feito)
+quando um dos lados vencer, faca o jogo voltar para  o menu (feito)
+
+polimento
+
+corrija o bug da bola entrar na eaquete (feito)
+corrija o buga da raquete ia continuar se movendo mesmo apos voltar para o menu (feito)

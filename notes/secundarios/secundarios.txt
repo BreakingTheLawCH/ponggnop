@@ -1,0 +1,6 @@
+desafios
+
+atribuir a velocidade da bola na dificuldade (feito)
+faca a raquete 1 seguir o mouse (feito)
+faca o objeto olho seguir a posicao da bola (feito, nao por mim)
+faca com que o objeto olho nao saia da parte branca dos olhos. (feito, nao por mim)
