@@ -2,5 +2,5 @@
 // Você pode escrever seu código neste editor
 
 //definindo uma variavel para ser a velocidade da raquete
-//vel = 4;
+vel = 4;
 

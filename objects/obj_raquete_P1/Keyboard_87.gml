@@ -3,5 +3,5 @@
 
 //atribuindo o movimente para cima ao apertar a tecla W
 
-//vspeed = -vel;
+vspeed = -vel;
 

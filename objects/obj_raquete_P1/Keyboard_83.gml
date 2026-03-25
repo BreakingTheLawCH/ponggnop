@@ -3,4 +3,4 @@
 
 //atribuindo o movimente para baixo ao apertar a tecla S
 
-//vspeed = vel;
+vspeed = vel;

@@ -3,4 +3,4 @@
 
 //ao soltar a tecla S, a raquete para de mexer
 
-//vspeed = 0;
+vspeed = 0;
